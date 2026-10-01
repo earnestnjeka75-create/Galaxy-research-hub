@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Galaxy Research Hub - Expert Academic & Corporate Research Writers</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:Arial,sans-serif}
+body{background:#f4f6ff}
+.top{background:#0a1e42;color:#fff;padding:10px 5%;display:flex;justify-content:space-between;flex-wrap:wrap;font-size:12px;gap:8px}
+.hero{padding:35px 5%;background:#fff;display:flex;flex-wrap:wrap;align-items:center;gap:20px}
+.hero-left{flex:1;min-width:300px}
+.hero h1{font-size:36px;line-height:1.1;color:#0a1e42}
+.hero h1 span{color:#d4a017}
+.hero p{color:#555;margin:10px 0 18px;font-size:14px}
+.bar{background:#0a1e42;color:#fff;display:flex;flex-wrap:wrap;border-radius:10px;overflow:hidden;margin-top:10px}
+.bar div{flex:1;min-width:150px;padding:13px 15px;border-right:1px solid #1a335a;display:flex;flex-direction:column}
+.bar div:last-child{border:none}
+.bar small{opacity:.7;font-size:11px}
+.bar b{color:#f0c419}
+.grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:18px;padding:25px 5%;background:#fff}
+.card{background:#0a1e42;color:#fff;padding:22px;border-radius:14px}
+.card h3{background:#d4a017;color:#0a1e42;padding:6px 14px;border-radius:20px;display:inline-block;font-size:13px;margin-bottom:14px;font-weight:800}
+.card.white{background:#f8f9ff;color:#0a1e42;border:1.5px solid #e5e8f5}
+.card.white li{border-bottom:1px solid #e5e8f5}
+.card li{list-style:none;padding:8px 0;font-size:13px;border-bottom:1px solid #ffffff15;display:flex;gap:8px}
+.pill{background:#0a1e42;color:#fff;padding:18px 5%;margin:20px 5%;border-radius:12px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
+.cta{position:fixed;bottom:0;left:0;right:0;background:#fff;padding:12px 5%;display:flex;gap:12px;box-shadow:0 -3px 20px rgba(0,0,0,.12);z-index:100}
+.btn{flex:1;padding:15px;border-radius:9px;text-align:center;color:#fff;text-decoration:none;font-weight:800;display:flex;justify-content:center;align-items:center;gap:8px;font-size:15px}
+.green{background:#25D366}
+.navy{background:#0a1e42}
+@media(max-width:800px){.grid{grid-template-columns:1fr}.hero h1{font-size:28px}}
+</style>
+</head>
+<body>
+<div class="top"><span>📍 PHYSICAL OFFICE: NAIROBI, KENYA</span><span>✔️ PROFESSIONAL TEAM | DATA SECURITY | ON-TIME DELIVERY</span></div>
+
+<div class="hero">
+<div class="hero-left">
+<div style="font-size:12px;font-weight:800;color:#0a1e42;letter-spacing:1px">🛡️ INTEGRITY &nbsp; 🏆 EXCELLENCE</div>
+<h1>EXPERT ACADEMIC &<br><span>CORPORATE RESEARCH WRITERS</span></h1>
+<p>Reliable Research. Real Insights. Lasting Impact.</p>
+<div class="bar">
+<div><small>CALL / WHATSAPP</small><b>+254 713 834 153</b></div>
+<div><small>EMAIL US</small><span style="font-size:12px">galaxyresearchhub2025@gmail.com</span></div>
+<div><small>SUPPORT</small><b>24/7 AVAILABLE</b></div>
+</div>
+</div>
+<div style="flex:1;min-width:280px"><img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600" style="width:100%;border-radius:16px;box-shadow:0 12px 30px rgba(0,0,0,.2)"></div>
+</div>
+
+<div class="grid">
+<div class="card"><h3>OUR SERVICES</h3>
+<li>🎯 RESEARCH TOPICS & OBJECTIVES</li><li>📄 CONCEPT PAPERS</li><li>📝 RESEARCH PROPOSALS</li><li>📚 RESEARCH PROJECTS</li><li>🎓 THESIS & DISSERTATION WRITING</li><li>📊 DATA ANALYSIS & INTERPRETATION</li><li>📰 PUBLICATION SUPPORT</li><li>👥 CONFERENCE PAPERS</li><li>📑 WHITE PAPERS</li><li>💼 BUSINESS PLANS & REPORTS</li><li>🤝 CONSULTANCY SERVICES</li><li>🏢 CORPORATE RESEARCH SOLUTIONS</li>
+</div>
+<div class="card white"><h3>LEVELS WE COVER</h3>
+<li>🎓 <div><b>DIPLOMA</b><br><small>Well-researched and structured support</small></div></li>
+<li>🎓 <div><b>DEGREE</b><br><small>High-quality papers and projects</small></div></li>
+<li>🎓 <div><b>MASTERS</b><br><small>In-depth research and critical analysis</small></div></li>
+<li>🎓 <div><b>PHD</b><br><small>Original, rigorous and advanced research</small></div></li>
+<li>📘 <div><b>PROFESSIONAL COURSES</b><br><small>Assignments, case studies, reports</small></div></li>
+<li>🏢 <div><b>CORPORATE RESEARCH</b><br><small>Market research, feasibility studies</small></div></li>
+</div>
+<div class="card"><h3 style="background:#8b5cf6;color:#fff">WHY CHOOSE US?</h3>
+<li>✓ Experienced & qualified writers</li><li>✓ 100% original & plagiarism free work</li><li>✓ AI free work</li><li>✓ Well-structured & properly referenced</li><li>✓ Timely delivery</li><li>✓ Confidentiality & data security</li><li>✓ Affordable & flexible pricing</li><li>✓ Unlimited revisions</li><li>✓ 24/7 customer support</li><li>✓ Quality work that gets results</li>
+</div>
+</div>
+
+<div class="pill">
+<div style="display:flex;gap:12px;align-items:center"><span style="font-size:32px">📍</span><div><b>PHYSICAL OFFICE</b><br><span style="font-size:20px;font-weight:800">NAIROBI</span></div></div>
+<div style="display:flex;gap:12px;align-items:center"><span style="font-size:32px">👥</span><div>We have experts across<br><b>all subjects and fields.</b></div></div>
+</div>
+
+<div style="height:90px"></div>
+<div class="cta">
+<a class="btn green" href="https://wa.me/254713834153?text=Hello%20Galaxy%20Research%20Hub,%20I%20need%20research%20help%20">💬 WhatsApp: 0713 834 153</a>
+<a class="btn navy" href="mailto:galaxyresearchhub2025@gmail.com">✉️ Email Us</a>
+</div>
+</body>
+</html>
